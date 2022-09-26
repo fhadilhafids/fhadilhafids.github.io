@@ -1,0 +1,128 @@
+
+
+.berita{
+    background-color:darkgray;
+    margin-left: 2%;
+    width: 96%;
+}
+
+.berita img{
+    background-color:black;
+    margin-left: 21%;
+    width: 60%;
+    height: 10%;
+}
+
+.rekom{
+    margin-left: 44%;
+    font-size: 29px;
+    color: darkslategray;
+}
+
+.selengkapnya{
+    float: right;
+    margin-right: 24px;
+    font-size: 20px;
+    
+}
+
+.selengkapnya a{
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.selengkapnya a:hover{
+    color: black;
+}
+
+#judul-2{
+    padding-left: 0%;
+    color: darkslategray;
+}
+
+
+
+.top-content{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 14px;
+    margin-left: 10px;
+    margin-right: 21%;
+    padding: 1px;
+}
+
+.top-content figure img{
+    padding: 4px;
+    width: 65%;
+    border-radius: 12px;
+    
+}
+
+.top-content a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding-top: 1px;
+    padding-left: 6px;
+    position: static;
+}
+
+.top-content a:hover{
+    color:cornflowerblue;
+}
+
+.content-1{
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 21%;
+}
+
+.content-1 img{
+    padding: 4px;
+    width: 37%;
+    border-radius: 12px;
+}
+
+.content-1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding-top: 40px;
+    padding-left: 6px;
+    position: absolute;
+}
+
+.content-1 a:hover{
+    color:cornflowerblue;
+}
+
+.content-2{
+    background-color: white;
+    margin-top: 14px;
+    margin-left: 18%;
+    margin-right: 25px;
+}
+
+.content-2 img{
+    padding: 4px;
+    width: 37%;
+    border-radius: 12px;
+}
+
+.content-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding-top: 40px;
+    padding-left: 6px;
+    position: absolute;
+}
+
+.content-2 a:hover{
+    color:cornflowerblue;
+}
